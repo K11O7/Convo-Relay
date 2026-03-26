@@ -1,0 +1,28 @@
+{
+  "name": "convo-relay",
+  "version": "1.0.0",
+  "description": "Relay server for the convo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K11O7/Convo-Relay.git"
+  },
+  "keywords": [],
+  "author": "Krish Choukse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K11O7/Convo-Relay/issues"
+  },
+  "homepage": "https://github.com/K11O7/Convo-Relay#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "uuid": "^13.0.0",
+    "ws": "^8.20.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
